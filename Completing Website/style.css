@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&family=Poppins:wght@500&display=swap');
+.banner {
+    background-image: url('k.jpg');
+    height: 95vh;
+}
+.ban {
+    padding: 15% 30% 3% 30%;
+    font-size: 20px;
+}
+ 
+h1
+{
+    font-size: 200%;
+}
+.Image{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.Image .profile-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+h2 {
+    color: palegreen;
+}
+.y {
+    color: palegreen;
+}
+.leftpic {
+    width: 150%;
+    height: 150%;
+    border-radius: 50%;
+    padding: 3px;
+    
+
+}
+span {
+    padding-left: 20px;
+    color: darkgreen;
+}
+footer {
+    background-color: palegreen;
+    height: 40px;
+    padding: 25px;
+}
+footer {
+    padding-top: 20px;
+}
+.img5 {
+  width: 150px;
+  border-radius: 80px;
+  height: 20vh;
+  margin-left: 60%;
+  
+}
+
+.img6 {
+    width: 150px;
+    border-radius: 80px;
+    height: 20vh;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .projects {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+  
+  article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .project-info {
+    text-align: left;
+    padding: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
